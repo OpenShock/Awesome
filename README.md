@@ -137,6 +137,7 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 ## Command Line utilities
 
+- 🟡 [PiShock Switcher](https://github.com/lillithrosepup/pishock-switcher) - Easy switching between PiShock and OpenShock
 - 🟡 [OpenShock TUI](https://github.com/LostQuasar/openshock-tui) - Terminal user interface for controlling OpenShock devices.
   - Created by [LostQuasar](https://github.com/LostQuasar)
 - 🟡 [OpenShock-AutoFlasher](https://github.com/NanashiTheNameless/OpenShock-AutoFlasher) - Automated bulk-oriented flashing utility for OpenShock hubs; designed especially for vendors.
