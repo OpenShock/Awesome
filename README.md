@@ -137,6 +137,8 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 ## Command Line utilities
 
+- 🟢 [OpenShock Terminal, Configurator and Flasher](https://openshock.app/terminal) - The go-to way to configure and flash your device, built right into the official frontend.
+  - Maintained by the OpenShock team
 - 🟡 [PiShock Switcher](https://github.com/lillithrosepup/pishock-switcher) - Easy switching between PiShock and OpenShock
   - Created by [Lillith](https://github.com/lillithrosepup)
 - 🟡 [OpenShock TUI](https://github.com/LostQuasar/openshock-tui) - Terminal user interface for controlling OpenShock devices.
